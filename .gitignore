@@ -2,3 +2,4 @@
 /project_with_mongoDB/package-lock.json
 /project_with_mongoDB/package.json
 /project_with_mongoDB/.env
+/node_modules
