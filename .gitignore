@@ -3,3 +3,6 @@
 /project_with_mongoDB/package.json
 /project_with_mongoDB/.env
 /node_modules
+/package-lock.json
+/package.json
+/auth-api/.env
