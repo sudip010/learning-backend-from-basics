@@ -7,3 +7,4 @@
 /package.json
 /auth-api/.env
 /use_of_jwt/.env
+/RBAC/.env
