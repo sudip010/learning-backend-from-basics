@@ -8,3 +8,4 @@
 /auth-api/.env
 /use_of_jwt/.env
 /RBAC/.env
+/middleware_and_globalerror_handling/.env
